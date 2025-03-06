@@ -1,4 +1,4 @@
-Plataforma de Gestión de Viajes
+# Plataforma de Gestión de Viajes
 
 <p align="center">
   <img src="./images/Readme-01.png" alt="Descripción de la imagen" width="60%">
