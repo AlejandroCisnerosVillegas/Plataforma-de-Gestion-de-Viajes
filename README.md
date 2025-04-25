@@ -22,7 +22,7 @@ El objetivo principal de la **Plataforma de Gestión de Viajes** es proporcionar
   <img src="./images/Readme-04.png" alt="Descripción de la imagen" width="60%">
 </p>
 
-**Consulta la versión preliminar del proyecto aquí:** [https://plataforma-de-gestion-de-viajes.com](https://www.alejandrovillegas.net/projects/project-07/index.php)
+**Consulta la versión preliminar del proyecto aquí:** [https://plataforma-de-gestion-de-viajes.com](https://www.alejandrovillegas.dev/projects/project-07/index.php)
 
 # 📌 Información del Proyecto
 
@@ -34,7 +34,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 30 de junio de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
